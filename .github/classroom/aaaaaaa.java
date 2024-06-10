@@ -1,0 +1,2 @@
+/*Sametin yasını sordur */
+
